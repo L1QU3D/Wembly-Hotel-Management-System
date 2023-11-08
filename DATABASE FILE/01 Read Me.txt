@@ -1,0 +1,18 @@
+
+For More Project Visit >>>>>>>> Freeprojectscodes.com <<<<<<<<<
+
+**Database Name: hotelms**
+
+**Developed by Ajit Jain, Visraman, Prem Chand Saini**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Login Details**
+
+username: christine / christine@gmail.com
+password: 201452064
+
+
+Username: harryden / harryden@gmail.com
+Password : 201452030
