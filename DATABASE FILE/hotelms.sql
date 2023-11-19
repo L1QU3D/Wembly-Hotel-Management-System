@@ -357,7 +357,8 @@ CREATE TABLE `user` (
 
 INSERT INTO `user` (`id`, `name`, `username`, `email`, `password`, `created_at`) VALUES
 (2, 'Christine', 'christine', 'christine@gmail.com', 'fb1e75090b96d2e0abec0ec980c2f392', '2015-11-12 12:49:22'),
-(3, 'Harry Denn', 'harryden', 'harryden@gmail.com', 'd0a512f262ed34abed0c45cefe08c429', '2016-04-01 12:49:22');
+(3, 'Harry Denn', 'harryden', 'harryden@gmail.com', 'd0a512f262ed34abed0c45cefe08c429', '2016-04-01 12:49:22');,
+(4, 'lemah', 'lemah', 'lemah@gmail.com', 'fb1e75090b96d2e0abec0ec980c2f392', '2023-11-19 09:00:00')
 
 --
 -- Indexes for dumped tables
