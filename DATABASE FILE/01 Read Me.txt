@@ -14,5 +14,8 @@ username: christine / christine@gmail.com
 password: 201452064
 
 
-Username: harryden / harryden@gmail.com
-Password : 201452030
+username: Admin / admin@gmail.com
+password: 201452064
+
+username: lemah / lemah@gmail.com
+password: 201452064
